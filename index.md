@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Hi, I'm Angelina Cottone
 
 I'm a **Statistics graduate from UC Davis** specializing in **statistical modeling, data science, and machine learning**.
