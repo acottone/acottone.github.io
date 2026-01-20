@@ -25,6 +25,7 @@ I'm currently **data science, statistics, and analytics roles**.
 - **Goal:** Predict audience scores using pre-release movie data
 - **Methods:** Ensemble ML models, feature engineering
 - **Tech:** Python
+
 [Github Repo](https://github.com/acottone/film-audience-score/tree/main)
 
 ---
@@ -33,6 +34,7 @@ I'm currently **data science, statistics, and analytics roles**.
 - **Goal:** Identify influential providers in a million-node referral network
 - **Methods:** Graph algorithms, PageRank, large-scale data processing
 - **Tech:** Python
+
 [Github Repo](https://github.com/acottone/pagerank-shared-patterns)
 
 ---
@@ -40,7 +42,8 @@ I'm currently **data science, statistics, and analytics roles**.
 ### Time Series Analysis of CAR Economic Data
 - **Goal:** Model long-term economic trends and generate forecasts  
 - **Methods:** ARIMA, exploratory time series analysis  
-- **Tech:** R  
+- **Tech:** R
+
 [GitHub Repo](https://github.com/acottone/time-series-car-economic-data)
 
 ---
