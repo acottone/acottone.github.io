@@ -63,6 +63,7 @@ A selection of academic and personal projects demonstrating skills in statistics
 **Tools:** R, RStudio, forecast, tseries, ggplot2, R Markdown
 
 **Problem:** Analyze economic indicators (GDP, exports, population) for CAR; generate reproducible forecasts
+
 **Approach:**  
 - Preprocessed annual time series and applied log transformations  
 - Tested stationarity using ADF; identified ARIMA models using ACF/PACF and AICc  
