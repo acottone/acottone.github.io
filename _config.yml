@@ -1,5 +1,8 @@
 title: Angelina Cottone
-description: Statistics & Data Science
+description: Statistics & Data Science | UC Davis Graduate
+author: Angelina Cottone
+show_downloads: false
+google_analytics:
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
