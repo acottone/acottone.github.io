@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Technical Writing & Communication
 
 Clear communication is essential for data-driven decision-making.  
