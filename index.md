@@ -22,27 +22,33 @@ I'm currently **seeking opportunities in data science, statistics, and analytics
 ## Featured Projects
 
 ### Filmlytics: Movie Audience Score Prediction
-- **Goal:** Predict audience reception for films using structured data and graphs
-- **Methods:** Feature engineering, ensemble ML (XGBoost + GNN + KGCN), temporal validation, Streamlit dashboard
-- **Tech:** Python, PyTorch, XGBoost, HuggingFace Transformers, MongoDB, Plotly
+**Goal:** Predict audience reception for films using structured data and graphs
+
+**Methods:** Feature engineering, ensemble ML (XGBoost + GNN + KGCN), temporal validation, Streamlit dashboard
+
+**Tech:** Python, PyTorch, XGBoost, HuggingFace Transformers, MongoDB, Plotly
 
 [Github Repo](https://github.com/acottone/film-audience-score/tree/main)
 
 ---
 
 ### Healthcare Network PageRank Analysis
-- **Goal:** Identify influential providers and model risk propagation in a million-node referral network
-- **Methods:** PageRank with power iteration, sparse linear algebra, network centrality analysis
-- **Tools:** Python, NumPy, SciPy, Pandas, Matplotlib, Plotly
+**Goal:** Identify influential providers and model risk propagation in a million-node referral network
+
+**Methods:** PageRank with power iteration, sparse linear algebra, network centrality analysis
+
+**Tools:** Python, NumPy, SciPy, Pandas, Matplotlib, Plotly
 
 [Github Repo](https://github.com/acottone/pagerank-shared-patterns)
 
 ---
 
 ### Time Series Analysis of CAR Economic Data
-- **Goal:** Analyze historical economic trends and forecast GDP, exports, and population through 2027
-- **Methods:** ARIMA modeling, stationarity tests, residual diagnostics, forecast intervals
-- **Tech:** R, ggplot2, forecast, tseries, R markdown
+**Goal:** Analyze historical economic trends and forecast GDP, exports, and population through 2027
+
+**Methods:** ARIMA modeling, stationarity tests, residual diagnostics, forecast intervals
+
+**Tech:** R, ggplot2, forecast, tseries, R markdown
 
 [GitHub Repo](https://github.com/acottone/time-series-car-economic-data)
 
