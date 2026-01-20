@@ -1,4 +1,9 @@
-# Business Writing & Communication
+# Technical Writing & Communication
+
+Clear communication is essential for data-driven decision-making.  
+These samples demonstrate my ability to explain technical concepts to non-technical audiences.
+
+---
 
 ## Instructions Manual
 
@@ -6,6 +11,8 @@
 **Audience:**  
 **Goal:** 
 [View PDF]()
+
+---
 
 ## Product & Analytics Proposal
 
