@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Projects
 
 A selection of academic and personal projects demonstrating skills in statistics, machine learning, and data analysis.
