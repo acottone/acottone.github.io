@@ -10,8 +10,8 @@ I build **data-driven models** to answer real-world questions in:
 
 I'm currently **data science, statistics, and analytics roles**.
 
-[View Resume](assets/Angelina_Cottone_resume_2026.pdf)
-[LinkedIn](https://www.linkedin.com/in/angelina-cottone/)
+[View Resume](assets/Angelina_Cottone_resume_2026.pdf) | 
+[LinkedIn](https://www.linkedin.com/in/angelina-cottone/) | 
 [GitHub](https://github.com/acottone)
 
 
@@ -20,18 +20,26 @@ I'm currently **data science, statistics, and analytics roles**.
 ## Featured Projects
 
 ### Filmlytics: Movie Audience Score Prediction
-**Goal:** Predict audience scores using pre-release movie data
-**Methods:** Ensemble ML models, feature engineering
-**Tech:** Python
+- **Goal:** Predict audience scores using pre-release movie data
+- **Methods:** Ensemble ML models, feature engineering
+- **Tech:** Python
 [Github Repo](https://github.com/acottone/film-audience-score/tree/main)
 
 ---
 
 ### Healthcare Network PageRank Analysis
-**Goal:** Identify influential providers in a million-node referral network
-**Methods:** Graph algorithms, PageRank, large-scale data processing
-**Tech:** Python
+- **Goal:** Identify influential providers in a million-node referral network
+- **Methods:** Graph algorithms, PageRank, large-scale data processing
+- **Tech:** Python
 [Github Repo](https://github.com/acottone/pagerank-shared-patterns)
+
+---
+
+### Time Series Analysis of CAR Economic Data
+- **Goal:** Model long-term economic trends and generate forecasts  
+- **Methods:** ARIMA, exploratory time series analysis  
+- **Tech:** R  
+[GitHub Repo](https://github.com/acottone/time-series-car-economic-data)
 
 ---
 
