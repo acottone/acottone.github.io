@@ -36,7 +36,7 @@ A selection of academic and personal projects demonstrating skills in statistics
 
 **Key Skills:** Count regression, regularization, cross-validation, interpretable modeling
 
-[Code](https://github.com/acottone/predicting-length-of-hospital-stays)
+[Github Repo](https://github.com/acottone/predicting-length-of-hospital-stays)
 
 ### Healthcare Network PageRank Analysis
 - **Tools:** Python, NumPy, SciPy, Pandas, Matplotlib, Plotly
@@ -48,7 +48,7 @@ A selection of academic and personal projects demonstrating skills in statistics
 
 **Key Skills:** Large-scale network analysis, sparse linear algebra, PageRank, risk modeling, performance benchmarking
 
-[Code](https://github.com/acottone/pagerank-shared-patterns)
+[Github Repo](https://github.com/acottone/pagerank-shared-patterns)
 
 ---
 
@@ -98,4 +98,4 @@ A selection of academic and personal projects demonstrating skills in statistics
 
 **Key Skills:** Web scraping, time series analysis, feature engineering, interactive visualization
 
-[Code](https://github.com/acottone/comparing_academy_graduates)
+[Github Repo](https://github.com/acottone/comparing_academy_graduates)
