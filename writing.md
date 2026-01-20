@@ -2,8 +2,7 @@
 
 # Technical Writing & Communication
 
-Clear communication is essential for data-driven decision-making.  
-These samples demonstrate my ability to explain technical concepts to non-technical audiences.
+Clear communication is essential for data-driven decision-making. These samples demonstrate my ability to explain technical concepts to non-technical audiences.
 
 ---
 
